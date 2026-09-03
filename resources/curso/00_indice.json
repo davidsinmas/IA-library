@@ -1,6 +1,6 @@
 {
-  "title": "Índice del curso",
+  "title": "Índice · Curso IA 2026",
   "category": "Curso",
-  "tags": ["índice", "navegación"],
-  "content": "El curso se integrará como una colección de recursos independientes. Cada capítulo podrá contener conceptos, técnicas, ejemplos y prompts reutilizables."
+  "tags": ["índice", "navegación", "curso"],
+  "content": "01 · Evolución de la IA — cambio desde el chat hacia la ejecución y coordinación.\n02 · Del chat al trabajo delegado — definir resultados, contexto y límites.\n03 · Proyectos y control del entorno — contexto, carpetas y permisos.\n04 · Fórmula del Goal Engineering — estructura de cinco bloques para encargos.\n05 · Instrucciones personalizadas — reglas estables y activadores.\n06 · Agentes y superagente — ejecución, herramientas y coordinación.\n07 · Skills — procesos reutilizables y consistentes.\n08 · Shit in, shit out — reducir ambigüedad mediante contexto y criterios.\n09 · Casos prácticos — Excel a informe y lanzamiento de producto.\n\nConsejo de uso: empieza por 02 y 04 para entender el nuevo enfoque; después utiliza 05, 06 y 07 para convertirlo en un sistema reutilizable."
 }
