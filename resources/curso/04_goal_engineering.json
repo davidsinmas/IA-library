@@ -1,0 +1,6 @@
+{
+  "title": "04 · Fórmula del Goal Engineering",
+  "category": "Curso",
+  "tags": ["curso", "goal engineering", "prompting", "calidad"],
+  "content": "La fórmula organiza un encargo en cinco bloques: Contexto y fuentes, Objetivo, Entregables, Límites de autonomía y Definición de completado.\n\nContexto y fuentes: desde dónde parte la IA y qué información puede utilizar.\nObjetivo: qué resultado final se quiere conseguir.\nEntregables: qué debe producir y con qué características.\nLímites de autonomía: qué puede hacer sin pedir confirmación y qué acciones debe evitar.\nDefinición de completado: qué condiciones deben cumplirse para considerar terminada la tarea.\n\nEn un entorno agéntico, un buen prompt se plantea como un encargo bien definido, no como una lista exhaustiva de pasos."
+}
