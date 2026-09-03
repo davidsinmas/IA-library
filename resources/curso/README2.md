@@ -1,0 +1,1 @@
+La estructura del curso se podrá sustituir por recursos estructurados por capítulo cuando se realice la importación completa del PDF.
