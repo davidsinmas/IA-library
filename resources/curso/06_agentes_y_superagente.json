@@ -1,0 +1,6 @@
+{
+  "title": "06 · Agentes y superagente",
+  "category": "Curso",
+  "tags": ["curso", "agentes", "superagente", "automatización"],
+  "content": "Según el curso, un agente combina cuatro capacidades: interpretar una meta y su contexto, decidir los pasos, utilizar herramientas y comprobar el avance para continuar hasta obtener un resultado. La diferencia principal frente a un chat está en ese ciclo de trabajo.\n\nUn agente especializado puede repetir bien un proceso concreto, pero obliga a localizar y coordinar el agente adecuado para cada necesidad. El enfoque de superagente se plantea como una capa de dirección: entiende el objetivo completo, divide el problema, coordina la ejecución y puede recurrir a agentes especializados cuando aportan valor.\n\nIdea práctica: los agentes son especialmente útiles para procesos definidos, aprobados y repetitivos; la coordinación global debe partir de objetivos e hitos claros."
+}
