@@ -1,0 +1,1 @@
+La primera versión es un MVP técnico. El siguiente paso es convertir el contenido del curso en una biblioteca navegable y mejorar el editor de prompts y la integración IA.
