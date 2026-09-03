@@ -1,0 +1,6 @@
+{
+  "title": "07 · Skills",
+  "category": "Curso",
+  "tags": ["curso", "skills", "reutilización", "procesos"],
+  "content": "Una Skill es un conjunto de instrucciones reutilizables que define cómo realizar un tipo de tarea. Puede contener el método, fuentes, pasos recomendados, entregables, límites y criterios de calidad.\n\nEl curso destaca que no requiere programación: puede ser un archivo de texto estructurado que la IA consulta cuando detecta una tarea relacionada.\n\nCompensa crear una Skill cuando el trabajo se repite, el orden importa, existe un estándar, hay recursos reutilizables, se quiere compartir el método o se necesitan resultados consistentes.\n\nEstructura recomendada: nombre y descripción; cuándo utilizarla; proceso; plantillas y ejemplos; criterios de calidad; recursos y herramientas."
+}
