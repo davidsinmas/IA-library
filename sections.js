@@ -8,7 +8,9 @@ function setupSections(){
     let visible=0;
     cards.querySelectorAll('.card').forEach(card=>{
       const badge=card.querySelector('.badge')?.textContent?.trim()||'';
-      const show=section==='Todos'||badge===section;
+      const title=card.querySelector('h3')?.textContent?.toLowerCase()||'';
+      const isCase=title.includes('caso práctico')||title.includes('casos prácticos')||title.includes('excel a informe');
+      const show=section==='Todos'||(section==='Curso IA 2026'&&badge==='Curso'&&!isCase)||(section==='Prompts'&&badge==='Prompt'&&!isCase)||(section==='Casos prácticos'&&isCase);
       card.style.display=show?'':'none';
       if(show)visible++;
     });
