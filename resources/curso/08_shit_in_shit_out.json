@@ -1,0 +1,6 @@
+{
+  "title": "08 · Shit in, shit out",
+  "category": "Curso",
+  "tags": ["curso", "contexto", "calidad", "prompting"],
+  "content": "El principio resume que la IA no puede adivinar con precisión lo que no se le ha contado. Cuando faltan contexto, fuentes o criterios, el resultado tiende a ser genérico, incompleto o difícil de aplicar.\n\nUna entrada de calidad no tiene que ser larga ni técnica. Debe reducir la ambigüedad y aportar escenario, resultado buscado, recursos disponibles y condiciones que deben respetarse.\n\nEl curso contrapone dos enfoques: dedicar el esfuerzo a decir cómo debe hacerse cada paso frente a dedicarlo a definir con precisión qué resultado se necesita. En el nuevo paradigma se prioriza lo segundo."
+}
