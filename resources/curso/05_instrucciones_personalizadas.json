@@ -1,0 +1,6 @@
+{
+  "title": "05 · Instrucciones personalizadas",
+  "category": "Curso",
+  "tags": ["curso", "instrucciones", "JARVIS", "personalización"],
+  "content": "Las instrucciones personalizadas son reglas que se añaden al contexto de las conversaciones para expresar preferencias estables: prioridades, hábitos, estilo y comportamientos que deben evitarse.\n\nEl curso muestra un activador de una palabra para transformar las peticiones en encargos estructurados. El ejemplo utiliza JARVIS como señal y reorganiza la solicitud mediante Contexto y fuentes, Objetivo, Entregables, Límites de autonomía y Definición de completado. Se puede elegir otra palabra como activador.\n\nTambién se explica que las instrucciones por sí solas no reproducen automáticamente la voz del usuario: los ejemplos reales y el contexto de audiencia ayudan a aproximar el estilo deseado."
+}
