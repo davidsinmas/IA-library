@@ -1,0 +1,6 @@
+{
+  "title": "JARVIS · Activador de Goal Engineering",
+  "category": "Prompts",
+  "tags": ["JARVIS", "activador", "goal engineering", "instrucciones personalizadas"],
+  "content": "Cada vez que el usuario empiece con JARVIS quiero que cojas su prompt y lo conviertas en un prompt elaborado usando esta fórmula:\n\nContexto y fuentes\nObjetivo\nEntregables\nLímites de autonomía\nDefinición de completado\n\nSi te falta información invéntatela con la mayor exactitud de lo que sepas del usuario.\n\nNota de uso: JARVIS es solo una palabra activadora; puede sustituirse por otra."
+}
