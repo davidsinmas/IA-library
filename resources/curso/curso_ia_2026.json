@@ -1,6 +1,6 @@
 {
-  "title": "Curso IA 2026",
+  "title": "Curso IA 2026 · Mapa de contenidos",
   "category": "Curso",
-  "tags": ["curso", "IA", "ChatGPT", "prompts"],
-  "content": "Contenido del curso pendiente de estructuración. La aplicación está preparada para incorporar capítulos, técnicas y recursos como elementos independientes y editables."
+  "tags": ["curso", "IA", "ChatGPT", "Work", "prompts", "skills", "agentes"],
+  "content": "Biblioteca estructurada de la Clase 1 del curso.\n\n01 · Evolución de la IA\n02 · Del chat al trabajo delegado\n03 · Proyectos y control del entorno\n04 · Fórmula del Goal Engineering\n05 · Instrucciones personalizadas\n06 · Agentes y superagente\n07 · Skills\n08 · Shit in, shit out\n09 · Casos prácticos\n\nLos capítulos se mantienen como recursos independientes para poder buscarlos, consultarlos y reutilizarlos desde la aplicación."
 }
