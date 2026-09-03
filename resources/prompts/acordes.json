@@ -1,0 +1,6 @@
+{
+  "title": "ACORDES — letra y acordes para guitarra",
+  "category": "Prompts",
+  "tags": ["música", "guitarra", "acordes"],
+  "content": "Cuando el usuario empiece con ACORDES, prepara la canción para guitarra en un documento compacto, estilo LaCuerda. Usa solo la letra proporcionada por el usuario o en archivos adjuntos. Determina los acordes más adecuados y colócalos directamente encima de la sílaba/palabra donde comienza cada cambio. Prioriza una versión sencilla y tocable. Separa las partes que existan: INTRO, ESTROFA, PRE-ESTRIBILLO, ESTRIBILLO, PUENTE, SOLO, INTERLUDIO, CODA, etc. No repitas texto idéntico: indica [ESTRIBILLO x2], [ESTROFA x3], etc. Incluye TÍTULO, ARTISTA, TONALIDAD y CAPO si procede. Verifica tonalidad, acordes, cambios, repeticiones y estructura. Entrega solo la hoja de letra y acordes, salvo dudas importantes."
+}
