@@ -12,7 +12,7 @@
     <div class="aside-foot">Recursos <b id="count">0</b></div>
   </aside>
   <main>
-    <header><div><div class="eyebrow">BIBLIOTECA DE IA</div><h1 id="heading">Todos los recursos</h1></div><button id="settings">⚙ Configuración</button></header>
+    <header><div><div class="eyebrow">BIBLIOTECA DE IA</div><h1 id="heading">Todos</h1><p id="subheading" class="subtitle">Biblioteca organizada por áreas de uso</p></div><button id="settings">⚙ Configuración</button></header>
     <section id="cards" class="cards"></section>
   </main>
   <section id="viewer" class="viewer hidden"><div class="viewer-head"><div><span id="vcat"></span><h2 id="vtitle"></h2></div><button id="close">×</button></div>
@@ -21,5 +21,5 @@
   </section>
 </div>
 <div id="modal" class="modal hidden"><div class="modal-box"><button class="x" id="mx">×</button><h2>Trabajar con IA</h2><p>La consulta se enviará a OpenAI junto con el recurso seleccionado.</p><textarea id="question" placeholder="¿Qué quieres hacer con este recurso?"></textarea><input id="apikey" type="password" placeholder="API key de OpenAI (se guarda solo en este navegador)"><button id="send">Consultar</button><pre id="answer"></pre></div></div>
-<script src="app.js"></script>
+<script src="app.js"></script><script src="sections.js"></script>
 </body></html>
