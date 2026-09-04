@@ -1,6 +1,0 @@
-{
-  "title": "Goal Engineering",
-  "category": "Prompts",
-  "tags": ["goal", "calidad", "verificación"],
-  "content": "Convierte la petición del usuario en una instrucción clara y ejecutable. Define contexto y rol, objetivo, especificaciones, criterios de calidad y verificación. Si falta información esencial, pregunta; si no es esencial, realiza una inferencia razonable y explícitala. Prioriza obtener el mejor resultado posible frente a responder de forma superficial."
-}

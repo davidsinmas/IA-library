@@ -1,6 +1,0 @@
-{
-  "title": "De idea a primera versión · Vibe coding",
-  "category": "Curso · Día 2",
-  "tags": ["vibe coding", "prototipos", "desarrollo", "apps"],
-  "content": "El vibe coding permite crear software explicando con palabras lo que necesitas. La herramienta interpreta la idea, propone una estructura y escribe el código necesario para mostrar una primera versión. Tú trabajas sobre el resultado: pruebas, corriges y decides qué debe cambiar.\n\nFLUJO DE TRABAJO\n1. Describe quién usará la solución y para qué.\n2. Define las entradas, las acciones y el resultado esperado.\n3. Pide una primera versión funcional.\n4. Prueba los recorridos principales y los casos límite.\n5. Solicita cambios concretos.\n6. Repite la prueba y publica cuando cumpla los criterios.\n\nGuarda una lista breve de requisitos. Después de cada cambio, vuelve a probar lo que ya funcionaba para detectar regresiones.\n\nFunciona especialmente bien para prototipos, herramientas internas, dashboards, webs y primeras versiones de producto. Antes de publicar una aplicación crítica, añade autenticación, copias de seguridad, validación de datos, registro de errores y revisión del código. La velocidad para construir no elimina la necesidad de comprobar estabilidad y seguridad."
-}

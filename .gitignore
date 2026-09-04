@@ -1,8 +1,0 @@
-__pycache__/
-*.pyc
-.venv/
-build/
-dist/
-config.json
-.idea/
-.vscode/

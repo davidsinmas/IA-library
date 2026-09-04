@@ -1,6 +1,0 @@
-{
-  "title": "Conectores en ChatGPT · Permisos y uso",
-  "category": "Curso · Día 2",
-  "tags": ["conectores", "permisos", "ChatGPT", "seguridad"],
-  "content": "Los conectores permiten que ChatGPT trabaje con servicios y fuentes externas. Según el acceso concedido, puede localizar archivos, consultar información o ejecutar acciones dentro de una aplicación.\n\nAntes de conectar una cuenta, piensa qué necesita realmente el flujo. Si solo buscas información, empieza con permiso de lectura. Añade escritura cuando hayas probado el comportamiento y la tarea lo requiera. Revisa qué cuenta vas a utilizar y qué datos podrá consultar el conector.\n\nINSTALAR UN CONECTOR\n1. Entra en Complementos/Plugins.\n2. Busca el nombre de la app que deseas conectar.\n3. Pulsa en conectar.\n4. Inicia sesión.\n\nAntes de aceptar permisos, léelos y realiza la primera prueba con información que no sea sensible. Si un flujo deja de utilizarse, desconecta la cuenta. Un conector puede ahorrar muchos pasos, pero también amplía el alcance del agente; concede únicamente los permisos necesarios."
-}

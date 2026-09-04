@@ -1,1 +1,0 @@
-MVP inicial preparado para continuar el desarrollo por fases.

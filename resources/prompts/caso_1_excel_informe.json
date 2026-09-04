@@ -1,6 +1,0 @@
-{
-  "title": "Caso 1 · De Excel a informe",
-  "category": "Prompts",
-  "tags": ["curso", "Excel", "informe", "Goal Engineering"],
-  "content": "CONTEXTO Y FUENTES\nBusca en mi ordenador un Excel que se llama “Datos para el informe de ventas”.\n\nOBJETIVO\nRevisa el Excel completo y cuéntame cómo va la empresa. Compara resultados y detecta tendencias, desviaciones, problemas y oportunidades.\n\nENTREGABLES\nCrea un informe en Word, claro y fácil de entender, que incluya:\n- Los indicadores principales.\n- La evolución de los resultados.\n- Conclusiones prácticas respaldadas por los datos.\n- Tablas y gráficos cuando ayuden a entender mejor la información.\n\nLÍMITES DE AUTONOMÍA\nPuedes revisar todas las hojas, hacer cálculos, cruzar datos y crear el informe sin pedirme confirmación. No manipules el Excel original. Si necesitas hacerlo, crea una copia.\n\nDEFINICIÓN DE COMPLETADO\nLa tarea estará terminada cuando hayas revisado todo el Excel y entregado el informe en Word. Antes de finalizar, comprueba que las cifras coinciden con el archivo original, asegúrate de haber revisado todo el Excel e incluye los hallazgos y conclusiones más útiles."
-}
